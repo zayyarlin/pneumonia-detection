@@ -2,8 +2,11 @@
 
 Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-![Normal X-Ray](https://github.com/zayyarlin/pneumonia-detection/blob/master/normalxray.jpeg "Normal X-Ray")
-![Pneumonia X-Ray](https://github.com/zayyarlin/pneumonia-detection/blob/master/pneumoniaxray.jpeg "Pneumonia X-Ray")
+Normal X-ray  
+<img src="https://github.com/zayyarlin/pneumonia-detection/blob/master/normalxray.jpeg" width="250">
+
+Pneumonia X-ray  
+<img src="https://github.com/zayyarlin/pneumonia-detection/blob/master/pneumoniaxray.jpeg" width="250">
 
 ## Learning Objectives
 
